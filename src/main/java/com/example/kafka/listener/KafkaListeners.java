@@ -1,4 +1,4 @@
-package com.example.kafka;
+package com.example.kafka.listener;
 
 import com.example.kafka.config.KafkaTopicConfig;
 import org.springframework.kafka.annotation.KafkaListener;
